@@ -7,3 +7,7 @@ My First GitHub Repository
 
 #hello-world
 This is my first commit
+
+#hello-world
+This is my first commit
+Adding Changes Manually
